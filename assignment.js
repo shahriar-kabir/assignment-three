@@ -87,4 +87,4 @@ function megaFriend(name){
    return [max];
 };
 var largestFriendName = megaFriend(['shahriar','kabir','joy','tuhin','riazul','bulbulian']);
-console.log(largestFriendName);
+//console.log(largestFriendName);
